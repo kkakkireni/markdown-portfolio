@@ -1,2 +1,2 @@
-[] Koti
-[X] Koti2
+- [X] **Koti**
+- [X] *Koti2*
